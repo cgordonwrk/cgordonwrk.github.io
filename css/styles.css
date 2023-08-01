@@ -3,6 +3,26 @@ body {
 	font-family: Verdana;
 }
 
+a:link {
+	color: lightblue;
+	background-color: transparent;
+}
+
+a:visited {
+	color: plum;
+	background-color: transparent;
+}
+
+a:hover {
+	color: lightcoral;
+	background-color: transparent;
+}
+
+a:active {
+	color: lightyellow;
+	background-color: transparent;
+}
+
 .title {
 	display: block;
 	margin-left: auto;
